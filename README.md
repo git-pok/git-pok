@@ -19,8 +19,8 @@ JavaScript, HTML, CSS, debugging, DOM manipulation, command line, testing, advan
 
 # CONTACT:
 You may reach me at,
-Email:
-Phone:
+Email: vincent.impreveduto@icloud.com
+Phone: (813) 507 4490
 
 <!---
 git-pok/git-pok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
