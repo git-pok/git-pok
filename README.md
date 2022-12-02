@@ -6,10 +6,10 @@ My interest for coding derives from my AA Graphic Design Web Design classes; I h
 My USF Software Engineer Coding Bootcamp and portfolio projects give me the knowledge, skills, and experience to analyze, write, and test software. I plan before I code in order to create more accurate and dependable code. I develop tested code piece by piece for quality solutions that prevent bugs. Companies may assure I achieve programming tasks efficiently. Please contact me to further discuss myself and opportunities you may have. Check out some of my working applications, below.
 
 # APPS
-###https://git-pok.github.io/git-pages-connect-four-oop/
-###https://git-pok.github.io/git-pages-connect-four/ 
-###https://git-pok.github.io/git-pages-todo-app/
-###https://git-pok.github.io/git-pages-memory-game-color-vs/
+### https://git-pok.github.io/git-pages-connect-four-oop/
+### https://git-pok.github.io/git-pages-connect-four/ 
+### https://git-pok.github.io/git-pages-todo-app/
+### https://git-pok.github.io/git-pages-memory-game-color-vs/
 
 # SPECIALITIES
 ## Software Engineer: 
