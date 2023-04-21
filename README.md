@@ -14,8 +14,8 @@ Frontend Development with JavaScript and HTML, Backend Development with Python, 
 JavaScript, HTML, CSS, debugging, DOM manipulation, command line, testing, advanced array methods, coding on modern codebases, object oriented programming, powerful styling, the internet, APIs, writing asynchronous code, adaptable programming, web servers and frameworks, databases and relational databases, database management, object relational mappers, build production applications, security and authentication, routing and interacting with APIs from the server side, deploy applications to production, advanced command line, server side JavaScript, building web servers and APIs, building full stack applications, client side routing, algorithms and data structures.
 
 ## CONTACT:
-E: vincent.impreveduto@icloud.com
-P: (813) 507 4490
+#### E: vincent.impreveduto@icloud.com
+#### P: (813) 507 4490
 
 <!---
 git-pok/git-pok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
