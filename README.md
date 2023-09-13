@@ -11,7 +11,7 @@ Software Engineer:
 Software Engineering methodologies and technologies, front-end web development, back-end web development, databases, and data structures and algorithms.
 
 ## Programming:
-JavaScript, HTML, CSS, debugging, DOM manipulation, command line, testing, advanced array methods, coding on modern codebases, object oriented programming, powerful styling, the internet, APIs, writing asynchronous code, adaptable programming, web servers and frameworks, databases and relational databases, database management, object relational mappers, build production applications, security and authentication, routing and interacting with APIs from the server side, deploy applications to production, advanced command line, server side JavaScript, building web servers and APIs, building full stack applications, client side routing, algorithms and data structures.
+Debugging, DOM manipulation, command line, testing, advanced array methods, coding on modern codebases, object oriented programming, powerful styling, the internet, APIs, writing asynchronous code, adaptable programming, web servers and frameworks, databases and relational databases, database management, object relational mappers, build production applications, security and authentication, routing and interacting with APIs from the server side, deploy applications to production, advanced command line, server side JavaScript, building web servers and APIs, building full stack applications, client side routing, algorithms and data structures.
 
 ## CONTACT:
 #### E: vincent.impreveduto@icloud.com
