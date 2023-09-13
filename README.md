@@ -1,4 +1,4 @@
-# console.log('HELLO EVERYONE!');
+# console.log("HELLO EVERYONE!");
 I am Vincent Impreveduto. The language I speak is Software Engineering. My passion is to build, extend, debug, and test applications. Understanding many languages, how they operate, and the environments they operate in, allows me to program, extend, and test apps with logic that is highly efficient for each logical purpose. By hiring me, you have someone dedicated to being skillful and reliable and who cares about your software concerns! 
 
 The USF Software Engineer Coding Bootcamp, a 9 month intensive course in Software Engineering methodologies and technologies with 700+ hours of hands-on course material and 1:1 industry expert mentor oversight, gives me the knowledge, skills, and experience to analyze, write, and test software. I develop tested code block by block for quality solutions, and I have built and tested hundreds of applications with many languages, libraries, and frameworks. Applications and features may trust I will program them efficiently. Please contact me to further discuss myself and opportunities you may have. Check out some of my working applications and capstone, below.
